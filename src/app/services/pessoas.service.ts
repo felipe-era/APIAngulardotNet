@@ -13,7 +13,7 @@ export class PessoasService {
     pessoas.id = 1;
     pessoas.nome = "Mario";
     pessoas.sobrenome = "Kart";
-    pessoas.país = "Italia";
+    pessoas.pais = "Italia";
 
     return [pessoas];
   }
