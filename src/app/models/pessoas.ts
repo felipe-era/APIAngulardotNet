@@ -3,4 +3,5 @@ export class Pessoa{
     nome = "";
     sobrenome = "";
     pais = "";
+    // pais = "";
 }
